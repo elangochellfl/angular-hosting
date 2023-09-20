@@ -71,7 +71,7 @@ function AppComponent_pre_89_Template(rf, ctx) { if (rf & 1) {
 class AppComponent {
     constructor() {
         this.title = 'angular-hosting-project';
-        this.message = "I want to achieve ever after";
+        this.message = "I am in Guduvanchery";
         this.message2 = "CLI Documentation from component - updated";
         this.myStyles = {
             'color': '#FFFFFF',
