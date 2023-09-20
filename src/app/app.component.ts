@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'angular-hosting-project';
 
-  message: string = "I want to achieve ever";
+  message: string = "I want to achieve ever after";
   message2: string = "CLI Documentation from component - updated";
   myStyles = {
     'color': '#FFFFFF',
